@@ -16,4 +16,4 @@ InTEACT has secured funding through the [Google Computer Science Educator Profes
 
 These resources will be made freely available to all teachers and students. InTEACT also welcomes contributions from other educators, students, professionals and interested parties - simply submit a pull request if you would like to contribute other resources and activities.
 
-Structure will be added to the repository in the coming months as educators involved in InTEACT workshops identify the most suitable approach to managing the resource collection.6
+Structure will be added to the repository in the coming months as educators involved in InTEACT workshops identify the most suitable approach to managing the resource collection.
