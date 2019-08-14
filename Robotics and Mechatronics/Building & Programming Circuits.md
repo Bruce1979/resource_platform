@@ -116,7 +116,7 @@ Task 3
 Task 4
 
 * Project phase 2
-* Working solution to a given scenario eg, weather station, watering system (rain sensor, pump, alarms, etc.)
+* Working solution to a given scenario eg, [weather station](https://www.youtube.com/watch?v=xA4Wjck4sv8), watering system (rain sensor, pump, alarms, etc.)
 * Wearable technology
 * Lego - find the warmest part of the room, sorting colors, complex robot - motion detection, targeting and response.
 
