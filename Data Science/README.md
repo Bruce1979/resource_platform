@@ -94,9 +94,9 @@ A high level overview of the topics explored across the 4 units of the Data Scie
 |14-16|8||Project|
 |17-20|||Review, Exam, Assessment & Reporting|
 
-## Resources
+## Resources and case studies
 
-Further work required.
+TODO
 
 # Unit Two: Big Data Analysis and Techniques
 
@@ -147,6 +147,24 @@ Further work required.
 
 ### Telling stories with big data
 
-## Big Data Resources
+## Program of learning
 
 TODO
+
+## Resources and case studies
+
+TODO
+
+# Unit Three: Machine Learning
+
+## Concepts overview
+
+TODO
+
+## Program of learning
+
+TODO
+
+## Resources and case studies
+
+ImageNet Roulette
