@@ -15,7 +15,7 @@ A high level overview of the topics explored across the 4 units of the Data Scie
 
 ## Concepts overview:
 
-###What is Data?
+### What is Data?
 * What is the history of Data?
   * DIKW pyramid
 * What can data tell us?
