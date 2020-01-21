@@ -85,17 +85,17 @@ A high level overview of the topics explored across the 4 units of the Data Scie
 ## Program of learning
 
 |Week|Module|Length|Title|Description|
-|--|--|--|--|--|--|
-|1|1|2 hours|Amazing stories|Introduce students to data through visualisation and narrative
-|2|2|4 hours|The history and nature of data|What is Data Science? What is Data? Why does it matter? Introduce ethical issues (Data distortions and bad decision-making)
-|3 - 4|3|8 hours|Data Representation|What is data representation? Modeling the world as discrete values (e.g. numbers, enum) Data types etc. (includes intro programming - csv manipulation, data types in programming languages, binary reps)
-|5 - 6|4|8 hours|Exploring datasets|Spreadsheets, Online / visualisation tools, Data quality, Interpretation, Visualisation
-|7-8||8 hours|Assignment, Review, Exam|
-|9 - 10|5|8 hours|Analysing and Visualising Data|
-|11 - 12|6|8 hours|Programming Techniques for Analysis and Presentation|
-|13|7|4 hours|Project: Designing a data collection|Modelling data
-|14-16|8|8 hours|Major Project: Constructing, analysing and presenting data
-|17-20|12||Review, Exam, Assessment & Reporting
+|--|--|--|--|--|
+|1|1|2 hours|Amazing stories|Introduce students to data through visualisation and narrative|
+|2|2|4 hours|The history and nature of data|What is Data Science? What is Data? Why does it matter? Introduce ethical issues (Data distortions and bad decision-making)|
+|3 - 4|3|8 hours|Data Representation|What is data representation? Modeling the world as discrete values (e.g. numbers, enum) Data types etc. (includes intro programming - csv manipulation, data types in programming languages, binary reps)|
+|5 - 6|4|8 hours|Exploring datasets|Spreadsheets, Online / visualisation tools, Data quality, Interpretation, Visualisation|
+|7-8||8 hours|Assignment, Review, Exam||
+|9 - 10|5|8 hours|Analysing and Visualising Data||
+|11 - 12|6|8 hours|Programming Techniques for Analysis and Presentation||
+|13|7|4 hours|Project: Designing a data collection|Modelling data|
+|14-16|8|8 hours|Major Project: Constructing, analysing and presenting data||
+|17-20|12||Review, Exam, Assessment & Reporting||
 
 ## Resources and case studies
 
