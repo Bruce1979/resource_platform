@@ -11,6 +11,12 @@ A high level overview of the topics explored across the 4 units of the Data Scie
 * Open data and APIs
 * Machine learning
 
+# General Data Science Resources
+
+The following resources are useful to develop your own understanding of Data Science, and include many activities and resources that can be used/adapted in various units in the Data Science course:
+
+[Ranked Intro to Data Science courses](https://www.freecodecamp.org/news/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e/)
+
 # Unit One: Data Representation and Analysis
 
 ## Concepts overview:
@@ -174,9 +180,3 @@ TODO
 ## Resources and case studies
 
 ImageNet Roulette
-
-# General Data Science Resources
-
-The following resources are useful to develop your own understanding of Data Science, and include many activities and resources that can be used/adapted in various units in the Data Science course:
-
-[Ranked Intro to Data Science courses](https://www.freecodecamp.org/news/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e/)
